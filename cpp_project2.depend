@@ -1,0 +1,253 @@
+# depslib dependency file v1.0
+1717041819 source:d:\cpp_project2\main.cpp
+	<iostream>
+	<windows.h>
+	<mysql.h>
+	<string>
+	<sstream>
+	"userPage.h"
+	"providerPage.h"
+	"playSong.h"
+	"AdminPage.h"
+	"playSong.h"
+
+1713533821 c:\program files (x86)\dev-cpp\mingw64\include\mysql.h
+	<sys/types.h>
+	<winsock.h>
+	"mysql_com.h"
+	"mysql_time.h"
+	"mysql_version.h"
+	"typelib.h"
+	"my_list.h"
+	"my_alloc.h"
+
+1713533822 c:\program files (x86)\dev-cpp\mingw64\include\mysql_com.h
+
+1713533824 c:\program files (x86)\dev-cpp\mingw64\include\mysql_time.h
+
+1713533825 c:\program files (x86)\dev-cpp\mingw64\include\mysql_version.h
+	<custom_conf.h>
+
+1713533827 c:\program files (x86)\dev-cpp\mingw64\include\typelib.h
+
+1713533819 c:\program files (x86)\dev-cpp\mingw64\include\my_list.h
+
+1713533816 c:\program files (x86)\dev-cpp\mingw64\include\my_alloc.h
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\mysql.h
+	<stdbool.h>
+	<stddef.h>
+	<stdint.h>
+	<sys/types.h>
+	<windows.h>
+	<winsock2.h>
+	"field_types.h"
+	"my_list.h"
+	"mysql_com.h"
+	"mysql/client_plugin.h"
+	"mysql_version.h"
+	"mysql_time.h"
+	"errmsg.h"
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\field_types.h
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\my_list.h
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\mysql_com.h
+	<stdbool.h>
+	<stdint.h>
+	"my_command.h"
+	"my_compress.h"
+	"my_io.h"
+	"mysql/components/services/bits/my_io_bits.h"
+	<stdbool.h>
+	"mysql/udf_registration_types.h"
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\my_command.h
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\my_compress.h
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\mysql\udf_registration_types.h
+	<stdbool.h>
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\mysql\client_plugin.h
+	<stdarg.h>
+	<stdlib.h>
+	"plugin_auth_common.h"
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\mysql\plugin_auth_common.h
+	<windows.h>
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\mysql_version.h
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\mysql_time.h
+
+1713803480 d:\mysql\mysql-8.3.0-winx64\include\errmsg.h
+
+1716064428 d:\cpp_project2\frontpage.h
+	<iostream>
+	<iostream>
+
+1717040620 d:\cpp_project2\userpage.h
+	<bits/stdc++.h>
+	"songPage.h"
+	"userLogin.h"
+	"userRegister.h"
+
+1717041851 d:\cpp_project2\userlogin.h
+	<bits/stdc++.h>
+	"searchUser.h"
+	"songPageForUser.h"
+	"recommandation.h"
+	"jaiRec.h"
+
+1716892769 d:\cpp_project2\userregister.h
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<windows.h>
+	<mysql.h>
+	<iomanip>
+	<fstream>
+
+1717016098 d:\cpp_project2\providerpage.h
+	<bits/stdc++.h>
+	"songPage.h"
+	"podcastPage.h"
+	"adsPage.h"
+	"providerRegister.h"
+	"providerLogin.h"
+
+1716918115 d:\cpp_project2\songpage.h
+	<bits/stdc++.h>
+
+1716904850 d:\cpp_project2\searchsong.h
+	<bits/stdc++.h>
+	"songPage.h"
+
+1716904697 d:\cpp_project2\searchuser.h
+
+1717044900 d:\cpp_project2\songpageforuser.h
+	<bits/stdc++.h>
+	"searchSong.h"
+	"playlistPage.h"
+	"jaiSub.h"
+	"jaiRec.h"
+
+1716916820 d:\cpp_project2\providerregister.h
+	<bits/stdc++.h>
+
+1716999348 d:\cpp_project2\providerlogin.h
+	<bits/stdc++.h>
+	"searchProvider.h"
+	"providerActivePage.h"
+
+1716915013 d:\cpp_project2\searchprovider.h
+	<bits/stdc++.h>
+
+1716999807 d:\cpp_project2\provideractivepage.h
+	<bits/stdc++.h>
+	"addSong.h"
+	"addPodcast.h"
+	"addAds.h"
+	"removeOperation.h"
+	"showOperationProvider.h"
+	"searchOptionProvider.h"
+	"searchProvider.h"
+	<iostream>
+	<sstream>
+	<mysql/mysql.h>
+
+1716999446 d:\cpp_project2\addsong.h
+	<bits/stdc++.h>
+	"songPage.h"
+
+1716925002 d:\cpp_project2\addpodcast.h
+	<bits/stdc++.h>
+	"podcastPage.h"
+
+1716928431 d:\cpp_project2\podcastpage.h
+	<bits/stdc++.h>
+
+1716925325 d:\cpp_project2\addads.h
+	<bits/stdc++.h>
+	"adsPage.h"
+	<bits/stdc++.h>
+	<mysql/mysql.h>
+
+1716925264 d:\cpp_project2\adspage.h
+	<bits/stdc++.h>
+	<mysql/mysql.h>
+
+1716999640 d:\cpp_project2\removeoperation.h
+
+1716933667 d:\cpp_project2\showoperationprovider.h
+	<iomanip>
+
+1716934770 d:\cpp_project2\searchoptionprovider.h
+
+1717044928 d:\cpp_project2\playlistpage.h
+	"userLogin.h"
+	"jaiRec.h"
+	"searchplaylist.h"
+	"PLCreateShowRemove.h"
+	"addRemoveSongFromPlaylist.h"
+
+1717001508 d:\cpp_project2\searchplaylist.h
+	"playlistPage.h"
+
+1717000265 d:\cpp_project2\plcreateshowremove.h
+
+1716985989 d:\cpp_project2\addremovesongfromplaylist.h
+
+1717041136 d:\cpp_project2\playsong.h
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<vector>
+	<string>
+	<conio.h>
+
+1717015938 d:\cpp_project2\adminpage.h
+	<iostream>
+	"adminUserPage.h"
+	"adminProviderPage.h"
+
+1717043541 d:\cpp_project2\adminuserpage.h
+	<bits/stdc++.h>
+	"searchUser.h"
+	"userPage.h"
+	"userPage.h"
+
+1717043591 d:\cpp_project2\adminproviderpage.h
+	<bits/stdc++.h>
+	"searchProvider.h"
+	"providerActivePage.h"
+	"providerPage.h"
+
+1717018070 d:\cpp_project2\recommandation.h
+
+1717044884 d:\cpp_project2\jairec.h
+	"userLogin.h"
+	"songPage.h"
+
+1717020838 d:\cpp_project2\plsong.h
+	<windows.h>
+	<mmsystem.h>
+	<iostream>
+	<vector>
+	<string>
+	<conio.h>
+
+1717040040 d:\cpp_project2\jaisub.h
+	<iostream>
+	<string>
+	<ctime>
+	<map>
+	<vector>
+	<list>
+	<stack>
+	<queue>
+
